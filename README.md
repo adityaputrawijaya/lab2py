@@ -31,7 +31,7 @@
 
 ## Langkah - Langkah Menggunakan PyCharm
 
-#### - Jika belum terinstal, silahkan download di https://.Jetbrains.com/pycharm/
+#### - Jika belum terinstal, silahkan download di https://www.jetbrains.com/pycharm/
 #### - Setelah selesai instalisasi , buka **PyCharm**
 #### - Membuat laman kerja baru dengan menekan (+) atau *Create New Project*
 
